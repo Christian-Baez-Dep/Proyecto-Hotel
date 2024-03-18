@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HotelWebApi",
+      "appliesTo": "Proyecto-Hotel-Application/HotelWebApi/HotelWebApi.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

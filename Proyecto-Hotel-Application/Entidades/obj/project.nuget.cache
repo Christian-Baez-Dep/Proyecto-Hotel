@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "p5p4FSxT8kaeIAQF7d/ey60aoPDT/XzhoBLq1rOHL/UyITCj+qIuTmKGVHL0OP1BNCpvrx4ipgtFr4aCMqTI6A==",
+  "dgSpecHash": "XSyyI0BwqHOSe1ik+mMPflIBhLchL4VQL+yvCWYqRYGL1w+pi07lqN1THFNR68XfvN1AMYTbg/cSJBNDLcilKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Proyecto-Hotel-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
