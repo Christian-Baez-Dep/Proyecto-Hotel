@@ -33,3 +33,21 @@ C:\Users\steil\source\repos\Hotel_Project\Proyecto-Hotel-Application\Business\ob
 C:\Users\steil\source\repos\Hotel_Project\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\refint\Business.dll
 C:\Users\steil\source\repos\Hotel_Project\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.pdb
 C:\Users\steil\source\repos\Hotel_Project\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Business.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Data.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Data.pdb
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\bin\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.sourcelink.json
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\ref\Business.dll

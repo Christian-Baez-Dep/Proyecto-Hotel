@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj": {}
+    "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\Business.csproj": {
+    "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\obj\\",
+        "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\baez_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baez_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\Data.csproj"
+              "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\Data.csproj"
               },
-              "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
-                "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
+              "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
+                "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
               }
             }
           }
@@ -45,11 +46,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,43 +68,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\Data.csproj": {
+    "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Data\\obj\\",
+        "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\baez_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baez_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,14 +99,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
-                "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
+              "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
+                "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
               }
             }
           }
@@ -133,11 +116,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -174,43 +152,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
+    "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
-        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj",
+        "packagesPath": "C:\\Users\\baez_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baez_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -219,6 +183,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -231,11 +196,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -252,43 +212,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj": {
+    "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj",
         "projectName": "HotelWebApi",
-        "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj",
-        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\HotelWebApi\\obj\\",
+        "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\HotelWebApi\\HotelWebApi.csproj",
+        "packagesPath": "C:\\Users\\baez_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\HotelWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baez_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -297,17 +243,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Business\\Business.csproj"
+              "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Business\\Business.csproj"
               },
-              "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
-                "projectPath": "C:\\Users\\steil\\source\\repos\\Hotel_Project\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
+              "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj": {
+                "projectPath": "C:\\Users\\baez_\\Desktop\\Repositorios Git\\Repo-Kelyn\\Proyecto-Hotel-Application\\Entidades\\Entity.csproj"
               }
             }
           }
@@ -316,11 +263,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -353,24 +295,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -379,7 +303,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
