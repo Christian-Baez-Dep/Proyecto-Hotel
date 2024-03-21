@@ -3,6 +3,7 @@ using Entidades.Modelo;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using HotelWebApi.Controllers;
+using Entity.Entidades;
 
 namespace HotelWebApi.Controllers
 {
@@ -18,13 +19,13 @@ namespace HotelWebApi.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginRequest request)
+        public  IActionResult Login([FromBody]LoginRequest request)
         {
-            var (success, client) = await _authUsers.AuthenticateAsync(request.Email, request.Password);
+             ResponseClient response =  _authUsers.Authenticate(request.Email, request.Password);
 
-            if (success)
+            if (response != null)
             {
-                return Ok(client);
+                return Ok(response);
             }
             else
             {

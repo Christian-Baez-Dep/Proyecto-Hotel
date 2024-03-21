@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Text;
 using Entidades.Modelo;
 using Microsoft.EntityFrameworkCore;
+using Entity.Entidades;
 
 //Roberto Sebastian Capellan Perez #2022-0950
 namespace Business.Services
@@ -20,17 +21,18 @@ namespace Business.Services
             _repositoryClient = repositoryClient;
         }
 
-        public async Task<(bool,Client)> AuthenticateAsync(string email, string password)
+        public ResponseClient Authenticate(string email, string password)
         {
-            var client = await _repositoryClient.GetClienteByEmailPassword(email, password);
+            var client = _repositoryClient.GetClienteByEmailPassword(email, password);
 
             if (client != null)
             {
-                return (true, client);
+                return new ResponseClient(client.Id, client.FirstName, client.LastName);
+
             }
             else
             {
-                return (false, null);
+                return null;
             }
         }
     }
