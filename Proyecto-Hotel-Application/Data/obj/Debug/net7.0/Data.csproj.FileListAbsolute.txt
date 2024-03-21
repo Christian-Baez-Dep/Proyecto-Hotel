@@ -51,3 +51,6 @@ C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Da
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\Data.pdb
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\Data.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Data\obj\Debug\net7.0\Data.pdb

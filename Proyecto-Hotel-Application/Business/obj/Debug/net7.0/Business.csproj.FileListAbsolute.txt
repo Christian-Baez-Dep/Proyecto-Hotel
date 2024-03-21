@@ -51,3 +51,6 @@ C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Bu
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\refint\Business.dll
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.pdb
 C:\Users\baez_\Desktop\Repositorios Git\Repo-Kelyn\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\ASUS\Source\Repos\Proyecto-Hotel\Proyecto-Hotel-Application\Business\obj\Debug\net7.0\Business.pdb
