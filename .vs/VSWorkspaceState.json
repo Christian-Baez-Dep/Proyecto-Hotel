@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Proyecto-Hotel-Application",
+    "\\Proyecto-Hotel-Application\\Business",
+    "\\Proyecto-Hotel-Application\\Data",
+    "\\Proyecto-Hotel-Application\\Data\\Interface",
+    "\\Proyecto-Hotel-Application\\Data\\Repository",
+    "\\Proyecto-Hotel-Application\\HotelWebApi",
+    "\\Proyecto-Hotel-Application\\HotelWebApi\\Controllers"
+  ],
+  "SelectedNode": "\\Proyecto-Hotel-Application\\Business\\Business.csproj",
+  "PreviewInSolutionExplorer": false
+}
