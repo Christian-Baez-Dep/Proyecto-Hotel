@@ -1,4 +1,5 @@
-﻿using Data;
+﻿using Business.Services;
+using Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -14,6 +15,8 @@ namespace Business
         public static void AddBusinessLayer(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDataLayer(configuration);
+            services.AddTransient<AuthUsers> ();
+            services.AddTransient<RegistryUsers> ();
         }
     }
 }

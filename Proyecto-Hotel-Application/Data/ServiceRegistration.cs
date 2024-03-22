@@ -1,4 +1,6 @@
 ﻿using Data.Contexts;
+using Data.Interface;
+using Data.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -22,6 +24,7 @@ namespace Data
                 m => m.MigrationsAssembly(typeof(ApplicationContext).Assembly.FullName));
             });
             #endregion
+            services.AddTransient<IRepositoryClient, RepositoryClient>();
         }
     }
 }

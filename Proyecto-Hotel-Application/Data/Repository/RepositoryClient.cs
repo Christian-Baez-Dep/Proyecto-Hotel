@@ -2,6 +2,7 @@
 using Data.Interface;
 using Entidades.Modelo;
 using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -69,7 +70,7 @@ namespace Data.Repository
         {
             try
             {
-                return (Client)_context.Clients.Where(c => c.Email == email & c.Password == password);
+                return _context.Clients.Where(c => c.Email == email & c.Password == password).AsEnumerable().Single();
             }catch(Exception ex)
             {
                 return null;
@@ -94,6 +95,32 @@ namespace Data.Repository
             }
 
 
+        }
+
+        public async Task<Client> CreateClient(Client client)
+        {
+            try
+            {
+                _context.Clients.Add(client);
+                await _context.SaveChangesAsync();
+                return client;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
+        public async Task<Client> GetClienteByEmail(string email)
+        {
+            try
+            {
+                return await _context.Clients.FirstOrDefaultAsync(c => c.Email == email);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
     }
 }
