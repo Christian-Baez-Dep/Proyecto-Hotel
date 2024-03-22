@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styleRegistro.css">
+    <title>registro</title>
+</head>
+<body>
+    
+
+<div class="form-body">
+    <div class="row">
+        <div class="form-holder">
+            <div class="form-content">
+                <div class="form-items">
+                    <h3>Registrate Hoy!</h3>
+                    <form class="requires-validation" novalidate>
+
+                        <div class="col-md-12">
+                           <input class="form-control" type="text" name="name" placeholder="Nombre" required>
+                        </div>
+                        
+                        <div class="col-md-12">
+                            <input class="form-control" type="text" name="lastName" placeholder="Apellido" required>
+                        </div>
+
+                        <div class="col-md-12">
+                            <input class="form-control" type="email" name="email" placeholder="Correo electronico" required>
+                            
+                        </div>
+
+                       <div class="col-md-12">
+                          <input class="form-control" type="password" name="password" placeholder="Contraseña" required>
+                       </div>
+
+                       <div class="col-md-12">
+                         <input class="form-control" type="email" name="cedula" placeholder="Cedula de identidad" required>
+                        </div>
+
+
+                       <div class="col-md-12 mt-3">
+                        <label class="mb-3 mr-1" for="gender">Genero: </label>
+
+                        <input type="radio" class="btn-check" name="gender" id="male" autocomplete="off" required>
+                        <label class="btn btn-sm btn-outline-secondary" for="male">Masculino</label>
+
+                        <input type="radio" class="btn-check" name="gender" id="female" autocomplete="off" required>
+                        <label class="btn btn-sm btn-outline-secondary" for="female">Femenino</label>
+
+                        <input type="radio" class="btn-check" name="gender" id="secret" autocomplete="off" required>
+                        <label class="btn btn-sm btn-outline-secondary" for="secret">Otro</label>
+                        </div>
+
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                      <label class="form-check-label">Confirmo que mis datos son correctos</label>
+                    </div>
+              
+
+                        <div class="form-button mt-3">
+                            <button id="submit" type="submit" class="btn btn-primary">Registrarme</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/indexR.js"></script>
+</body>
+</html>
