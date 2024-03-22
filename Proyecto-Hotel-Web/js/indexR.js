@@ -13,16 +13,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const gender = form.querySelector('input[name = "gender"]:checked').value;
 
         const data = {
-            name,
-            lastName,
             email,
             password,
-            cedula,
-            gender
+            name,
+            lastName,
+            cedula
         };
 
         try{
-            const response = await fetch ('url de la api', {
+            const response = await fetch ('https://localhost:7076/api/Auth/Register', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
